@@ -1,2 +1,2 @@
 # Basic-Java
-Codes practiced regularily throughout learning is posted in this repository.
+Basic Java Concepts with code Examples
